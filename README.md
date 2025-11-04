@@ -400,20 +400,20 @@ interface SynergyConfig {
 - **Production Ready**: Battle-tested in SAAAM LLC projects
 - **Fully Typed**: TypeScript support from the ground up
 - **Streaming First**: Real-time responses, no waiting
-- **Flexible**: Works with 1 model or 50 models
-- **Provider Agnostic**: Mix and match OpenAI and Anthropic
+- **Flexible**: Works with 1 model or 500 models | Theres no limit except your own API limits // Been tested with flawless results with 52 Claude variants & 52 GPT variants in one conversation
+- **Provider Agnostic**: Mix and match OpenAI and Anthropic | easy to add any provider
 
 ---
 
 ## 🤝 Contributing
 
-Built by SAAAM LLC. Use it, modify it, make it yours.
+Built by SAAAM LLC. Fork it, Use it, modify it, make it more badass
 
 ---
 
 ## 📝 License
 
-Do whatever you want with it. Just don't sue us. 🤷‍♂️
+Do whatever you want with it. Just mention us. 🤝
 
 ---
 
